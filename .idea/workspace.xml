@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27faeb78-100f-43eb-b2b9-f94e02cfdc09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1200px-PHP-logo.svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/encryption.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ftp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_big_item_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_big_item_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_big_item_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_big_item_04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_big_item_05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_item_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_item_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_item_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_item_04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio_item_05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sql.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/web_hosting.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +52,7 @@
       <workItem from="1589273301658" duration="7222000" />
       <workItem from="1589373490392" duration="1702000" />
       <workItem from="1589710407043" duration="2514000" />
-      <workItem from="1589723518633" duration="5311000" />
+      <workItem from="1589723518633" duration="5672000" />
     </task>
     <servers />
   </component>
